@@ -1,4 +1,4 @@
-## Welcome to Renaldy Herlim's page student at ucsd
+## Welcome to Renaldy Herlim's page
 
 My name is Renaldy Herlim, I am currently a student at University of California, San Diego.
 

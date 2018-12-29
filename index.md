@@ -1,5 +1,6 @@
 ## Welcome to Renaldy Herlim's page
 
+My name is Renaldy Herlim, I am currently a student at University of California, San Diego.
 
 You can use the [editor on GitHub](https://github.com/renaldyh27/renaldyh27.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

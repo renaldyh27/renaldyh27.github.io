@@ -2,6 +2,9 @@
 
 My name is Renaldy Herlim, I am currently a student at University of California, San Diego.
 
+1. 3.25 GPA
+2. Knows Python and Java
+
 You can use the [editor on GitHub](https://github.com/renaldyh27/renaldyh27.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
